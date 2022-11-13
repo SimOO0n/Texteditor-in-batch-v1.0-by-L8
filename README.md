@@ -3,7 +3,7 @@ This is a text editor I made in the language Batch. You can create, save, edit a
 
 With the "help" command you can see a full list of the commands in the program.
 
-
+https://youtu.be/ihvN_dthqDA
 ^
 |
 It is recommended to watch this video to understand everything from the beginning on.
